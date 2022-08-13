@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ronthetech
-- 👀 I’m interested in data science & web development
-- 🌱 I’m currently learning 
+- 👀 I’m interested in DATA SCIENCE & WEB DEVELOPMENT
+- 🌱 I’m currently learning Spark, TensorFlow
 - 💞️ I’m looking to collaborate on data science projects!
 - 📫 How to reach me ...
 
