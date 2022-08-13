@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ronthetech
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in data science & web development
+- 🌱 I’m currently learning 
+- 💞️ I’m looking to collaborate on data science projects!
 - 📫 How to reach me ...
 
 <!---
