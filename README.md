@@ -2,7 +2,8 @@
 - 👀 I’m interested in DATA SCIENCE & WEB DEVELOPMENT
 - 🌱 I’m currently learning Spark, TensorFlow
 - 💞️ I’m looking to collaborate on data science projects!
-- 📫 How to reach me on my LinkedIn or twitter @rjthetech
+- 📫 How to reach me on my LinkedIn:www.linkedin.com/in/ron-jean-francois-224066136
+ or twitter @rjthetech
 
 ## Thanks for checking out my projects!
 
