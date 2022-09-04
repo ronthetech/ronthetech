@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ronthetech
-- 👀 I’m interested in DATA SCIENCE & WEB DEVELOPMENT
-- 🌱 I’m currently learning Spark, TensorFlow
-- 💞️ I’m looking to collaborate on data science projects!
+- 👀 I’m interested in FULL STACK WEB DEVELOPMENT
+- 🌱 I’m currently learning Flask, Django
+- 💞️ I’m looking to collaborate on full stack web projects!
 - 📫 How to reach me on my LinkedIn:www.linkedin.com/in/ronjf
  or twitter @rjthetech
 
