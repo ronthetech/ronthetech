@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @ronthetech
-- 👀 I’m interested in FULL STACK WEB DEVELOPMENT
-- 🌱 I’m currently learning Flask, Django
-- 💞️ I’m looking to collaborate on full stack web projects!
+- Im working as a Full Stack Developer
+- 👀 I’m interested in React, Nextjs, Vitejs and Nodejs
+- 💞️ I’m looking to collaborate on web projects!
 - 📫 How to reach me on my LinkedIn:www.linkedin.com/in/ronjf
- or twitter @rjthetech
+ or twitter https://twitter.com/rjthetech
 
 ## Thanks for checking out my projects!
 
