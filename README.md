@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @ronthetech
-- Im working as a Full Stack Developer
-- 👀 I’m interested in React, Nextjs, Vitejs and Nodejs
-- 💞️ I’m looking to collaborate on web projects!
-- 📫 How to reach me on my <a href="https://www.linkedin.com/in/ronjf/">LinkedIn</a>
- or my twitter <a href="https://twitter.com/rjthetech">@rjthetech</a>
+# Hi, I’m Ron Jean-Francois
+## Im working as a Full Stack Developer
+### Some of the main tools Im using are JavaScript, TypeScript, React, Nodejs, Nextjs and Vitejs
+### You can reach me on my <a href="https://www.linkedin.com/in/ronjf/">LinkedIn</a>
+ or my <a href="https://twitter.com/rjthetech">twitter: @rjthetech</a>
 
 <br />
 <!---
