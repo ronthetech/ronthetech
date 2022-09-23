@@ -1,8 +1,7 @@
 # Hi, I’m Ron Jean-Francois
 ## Im working as a Full Stack Developer
 ### Some of the main tools Im using are JavaScript, TypeScript, React, Nodejs, Nextjs and Vitejs
-### You can reach me on my <a href="https://www.linkedin.com/in/ronjf/">LinkedIn</a> 
-### or my <a href="https://twitter.com/rjthetech">twitter: @rjthetech</a>
+### You can reach me on my <a href="https://www.linkedin.com/in/ronjf/">LinkedIn</a> or my <a href="https://twitter.com/rjthetech">twitter: @rjthetech</a>
 
 <br />
 <!---
