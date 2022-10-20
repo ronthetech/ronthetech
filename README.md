@@ -10,7 +10,7 @@
 <code><img height="30" alt="nextjs" src="https://raw.githubusercontent.com/ronthetech/ronthetech/7c1cf7a2a8c93af26a75a2f2cf25d1b6dfe5b5e3/icons/NextJS-Light.svg"></code>
 <code><img height="30" alt="vitejs" src="https://raw.githubusercontent.com/ronthetech/ronthetech/13aaebfe8de151462854932ef3534974d1edcc32/icons/Vite-Light.svg"></code>
 
-### You can reach me on my <a href="https://www.linkedin.com/in/ronjf/">LinkedIn</a> or my <a href="https://twitter.com/rjthetech">twitter: @rjthetech</a> 
+### You can reach me on my <a href="https://www.linkedin.com/in/ronjf/">LinkedIn</a> or my <a href="https://twitter.com/rjthetech">Twitter: @rjthetech</a> 
 <a href="https://www.linkedin.com/in/ronjf/"><img align="center" alt="Ron Jean-Francois | LinkedIn" width="30px" src="https://raw.githubusercontent.com/ronthetech/ronthetech/852679b722f8f4470980c6f25dd5851e2e5fb702/icons/LinkedIn.svg"/>
 </a><a href="https://twitter.com/rjthetech"><img align="center" alt="Ron Jean-Francois | Twitter" width="30px" src="https://raw.githubusercontent.com/ronthetech/ronthetech/011eb1da5a80016595dda2f204493cc203677d99/icons/Twitter%20(1).svg"/></a>
 
@@ -20,11 +20,11 @@
 [![Ron's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronthetech&hide=stars&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
-<!---
 <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronthetech)](https://github.com/anuraghazra/github-readme-stats)
 
+<!---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronthetech)](https://github.com/anuraghazra/github-readme-stats)
 
 |![Ron's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronthetech&hide=stars&count_private=true)|
