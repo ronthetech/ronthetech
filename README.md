@@ -1,5 +1,5 @@
 # Hi, I’m Ron Jean-Francois
-## Im a Full Stack Developer
+## Full Stack Developer
 ### Some of the main tools Im using are Python, JavaScript, TypeScript, React, Nodejs, PostgreSQL, Nextjs and Vitejs
 <code><img height="30" alt="python" src="https://raw.githubusercontent.com/ronthetech/ronthetech/6afacde514f07586d688cec51d9aae977781f53a/icons/Python-Light.svg"></code>
 <code><img height="30" alt="javascript" src="https://github.com/ronthetech/ronthetech/blob/main/icons/javascript.png?raw=true"></code>
