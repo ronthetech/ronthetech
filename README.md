@@ -35,7 +35,7 @@
 <br />
 <br />
 
-<a href="https://twitter.com/rjthetech">
+<a href="https://twitter.com/ronjtech">
  <img align="right" alt="Ron Jean-Francois | Twitter" width="21px" src="https://raw.githubusercontent.com/ronthetech/ronthetech/011eb1da5a80016595dda2f204493cc203677d99/icons/Twitter%20(1).svg"/>
 </a>
 <a href="https://www.linkedin.com/in/ronjf/">
