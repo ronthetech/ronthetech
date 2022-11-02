@@ -1,7 +1,7 @@
-# Hi, I’m Ron Jean-Francois
-## Full Stack Engineer
-### Some of the main tools Im using are TypeScript, React, Nextjs, Vitejs, Python and PostgreSQL
+# Hi, my name is Ron Jean-Francois and I'm a Full Stack Engineer
+## Some of the tools that I'm currently using are TypeScript, Nodejs, React, Nextjs, Vitejs, Python and PostgreSQL
 <code><img height="30" alt="typescript" src="https://github.com/ronthetech/ronthetech/blob/main/icons/typescript.png?raw=true"></code>
+<code><img height="30" alt="nodejs" src="https://github.com/ronthetech/ronthetech/blob/main/icons/NodeJS-Light.svg"></code>
 <code><img height="30" alt="react" src="https://github.com/ronthetech/ronthetech/blob/main/icons/react.png?raw=true"></code>
 <code><img height="30" alt="nextjs" src="https://raw.githubusercontent.com/ronthetech/ronthetech/7c1cf7a2a8c93af26a75a2f2cf25d1b6dfe5b5e3/icons/NextJS-Light.svg"></code>
 <code><img height="30" alt="vitejs" src="https://raw.githubusercontent.com/ronthetech/ronthetech/13aaebfe8de151462854932ef3534974d1edcc32/icons/Vite-Light.svg"></code>
