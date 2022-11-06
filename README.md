@@ -8,22 +8,20 @@
 <code><img height="30" alt="python" src="https://raw.githubusercontent.com/ronthetech/ronthetech/6afacde514f07586d688cec51d9aae977781f53a/icons/Python-Light.svg"></code>
 <code><img height="30" alt="postgresql" src="https://raw.githubusercontent.com/ronthetech/ronthetech/6afacde514f07586d688cec51d9aae977781f53a/icons/PostgreSQL-Dark.svg"></code>
 
-### You can reach me on my <a href="https://www.linkedin.com/in/ronjf/">LinkedIn</a> or my <a href="https://twitter.com/ronjtech">Twitter: @ronjtech</a> 
-<a href="https://www.linkedin.com/in/ronjf/"><img align="center" alt="Ron Jean-Francois | LinkedIn" width="30px" src="https://raw.githubusercontent.com/ronthetech/ronthetech/852679b722f8f4470980c6f25dd5851e2e5fb702/icons/LinkedIn.svg"/>
-</a><a href="https://twitter.com/rjthetech"><img align="center" alt="Ron Jean-Francois | Twitter" width="30px" src="https://raw.githubusercontent.com/ronthetech/ronthetech/011eb1da5a80016595dda2f204493cc203677d99/icons/Twitter%20(1).svg"/></a>
+### You can reach me on <a href="https://www.linkedin.com/in/ronjf/">LinkedIn</a> or <a href="https://twitter.com/ronjtech">Twitter: @ronjtech</a>
 
-<br />
+Im a Tech and Code Enthusiast, Basketball Fanatic, and when I'm not at my computer desk, I'm usually working on old cars like my '04 BMW.
+<hr />
 
 ### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
  - 🦆 [How to Add Auth0 to Your Next.js Application](https://ronjf.hashnode.dev/how-to-add-auth0-to-your-nextjs-application)<!-- BLOGPOSTS:END -->
 
-<br />
+<hr />
 
 [![Ron's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronthetech&hide=stars&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<br />
-<br />
+<hr />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronthetech)](https://github.com/anuraghazra/github-readme-stats)
 
