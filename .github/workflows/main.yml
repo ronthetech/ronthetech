@@ -1,0 +1,20 @@
+name: Hashnode Blog Posts
+on:
+  schedule:
+    # Runs every 6 hours of the day
+    - cron: '0 12 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with the latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "BLOGPOSTS"
+          feed_list: "https://ronjf.hashnode.dev/rss.xml"
+          template: "$newline - $randomEmoji(🦢,🦚,🐓,🕊️,🦜,🦉,🦅,🦆,🐤,🐦) [$title]($url)"
+          commit_message: "recent posts section updated"
+          gh_token: ${{ secrets.GITHUB_TOKEN }}
