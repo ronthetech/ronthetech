@@ -16,7 +16,7 @@
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
-<!-- BLOGPOSTS:END -->
+ - 🦆 [How to Add Auth0 to Your Next.js Application](https://ronjf.hashnode.dev/how-to-add-auth0-to-your-nextjs-application)<!-- BLOGPOSTS:END -->
 
 <br />
 
