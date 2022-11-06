@@ -13,6 +13,9 @@
 </a><a href="https://twitter.com/rjthetech"><img align="center" alt="Ron Jean-Francois | Twitter" width="30px" src="https://raw.githubusercontent.com/ronthetech/ronthetech/011eb1da5a80016595dda2f204493cc203677d99/icons/Twitter%20(1).svg"/></a>
 
 <br />
+#### :books: Recent Blog Posts
+<!-- BLOGPOSTS:START -->
+<!-- BLOGPOSTS:END -->
 <br />
 
 [![Ron's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronthetech&hide=stars&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
