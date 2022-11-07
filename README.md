@@ -15,7 +15,8 @@ Im a Tech and Code Enthusiast, Basketball Fanatic⛹🏾, and when I'm not at my
 
 ### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 🦆 [How to Add Auth0 to Your Next.js Application](https://ronjf.hashnode.dev/how-to-add-auth0-to-your-nextjs-application)<!-- BLOGPOSTS:END -->
+ - 🦆 [Intro to Next.js](https://www.ronjeanfrancois.com/blog/intro-to-nextjs/)
+ - 🐤 [How to Add Auth0 to Your Next.js Application](https://ronjf.hashnode.dev/how-to-add-auth0-to-your-nextjs-application)<!-- BLOGPOSTS:END -->
 
 <hr />
 
