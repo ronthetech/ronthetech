@@ -10,7 +10,7 @@
 
 ### You can reach me on <a href="https://www.linkedin.com/in/ronjf/">LinkedIn</a> or <a href="https://twitter.com/ronjtech">Twitter: @ronjtech</a>
 
-Im a Tech and Code Enthusiast, Basketball Fanatic⛹🏾, and when I'm not at my computer desk, I'm usually working on old cars like my '04 BMW.
+Im a Tech and Code Enthusiast, Basketball Fanatic⛹🏾, and when I'm not at my computer desk, I'm usually working on old cars like my '04 BMW🏎️.
 <hr />
 
 ### :books: Recent Blog Posts
