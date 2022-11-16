@@ -17,7 +17,9 @@ Im a Tech and Code Enthusiast, Basketball Fanatic⛹🏾, and when I'm not at my
 <!-- BLOGPOSTS:START -->
  - 🦆 [How to Add TypeScript ESLint to Next.js](https://www.ronjeanfrancois.com/blog/how-to-add-typescript-eslint-to-nextjs/)
  - 🐤 [Intro to Next.js](https://www.ronjeanfrancois.com/blog/intro-to-nextjs/)
- - 🦚 [How to Add Auth0 to Your Next.js Application](https://ronjf.hashnode.dev/how-to-add-auth0-to-your-nextjs-application)<!-- BLOGPOSTS:END -->
+ - 🦚 [How to Install pnpm](https://www.ronjeanfrancois.com/blog/how-to-install-pnpm-using-npm/)
+ - 🦅 [How to Install Scoop on Windows](https://www.ronjeanfrancois.com/blog/how-to-install-scoop-on-windows/)
+ - 🦅 [How to Add Auth0 to Your Next.js Application](https://ronjf.hashnode.dev/how-to-add-auth0-to-your-nextjs-application)<!-- BLOGPOSTS:END -->
 
 <hr />
 
