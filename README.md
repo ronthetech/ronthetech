@@ -7,6 +7,7 @@
 <code><img height="30" alt="vitejs" src="https://raw.githubusercontent.com/ronthetech/ronthetech/13aaebfe8de151462854932ef3534974d1edcc32/icons/Vite-Light.svg"></code>
 <code><img height="30" alt="python" src="https://raw.githubusercontent.com/ronthetech/ronthetech/6afacde514f07586d688cec51d9aae977781f53a/icons/Python-Light.svg"></code>
 <code><img height="30" alt="postgresql" src="https://raw.githubusercontent.com/ronthetech/ronthetech/6afacde514f07586d688cec51d9aae977781f53a/icons/PostgreSQL-Dark.svg"></code>
+<code><img height="30" alt="tailwindcss" src="https://ronthetech.github.io/image-repo/TailwindCSS-Dark.svg"></code>
 
 ### You can reach me on <a href="https://www.linkedin.com/in/ronjf/">LinkedIn</a> or <a href="https://twitter.com/ronjtech">Twitter: @ronjtech</a>
 
