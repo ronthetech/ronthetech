@@ -24,8 +24,8 @@ Im a Tech and Code Enthusiast, Basketball Fanatic⛹🏾, and when I'm not at my
 ## You can reach me on:
 
 <a href="https://ronjeanfrancois.com"><img align="left" alt="ronjeanfrancois.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
-<a href="https://www.linkedin.com/in/ronjf/"><img align="left" alt="Ron Jean-Francois | Twitter" width="22px" src="https://ronthetech.github.io/image-repo/Twitter.svg" /></a>
-<a href="https://twitter.com/ronjtech"><img align="left" alt="Ron Jean-Francois | LinkedIn" width="22px" src="https://ronthetech.github.io/image-repo/LinkedIn.svg" /></a>
+<a href="https://twitter.com/ronjtech"><img align="left" alt="Ron Jean-Francois | Twitter" width="22px" src="https://ronthetech.github.io/image-repo/Twitter.svg" /></a>
+<a href="https://www.linkedin.com/in/ronjf/"><img align="left" alt="Ron Jean-Francois | LinkedIn" width="22px" src="https://ronthetech.github.io/image-repo/LinkedIn.svg" /></a>
 <br />
 
 <hr />
