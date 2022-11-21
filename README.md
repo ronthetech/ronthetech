@@ -28,7 +28,7 @@ Im a Tech and Code Enthusiast, Basketball Fanatic⛹🏾, and when I'm not at my
 
 <hr />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronthetech)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronthetech&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronthetech)](https://github.com/anuraghazra/github-readme-stats)
