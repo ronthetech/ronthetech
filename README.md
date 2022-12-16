@@ -9,6 +9,7 @@ Im a Tech and Code Enthusiast, Basketball Fanatic⛹🏾, and when I'm not at my
 <img align="left" height="30" alt="nodejs" src="https://ronthetech.github.io/image-repo/icons/NodeJS-Dark.svg" />
 <img align="left" height="30" alt="react" src="https://ronthetech.github.io/image-repo/icons/React-Dark.svg" />
 <img align="left" height="30" alt="nextjs" src="https://ronthetech.github.io/image-repo/icons/NextJS-Dark.svg" />
+<img align="left" height="30" alt="astro" src="https://ronthetech.github.io/image-repo/icons/Astro.svg" />
 <img align="left" height="30" alt="git" src="https://ronthetech.github.io/image-repo/icons/Git.svg" />
 <img align="left" height="30" alt="bash" src="https://ronthetech.github.io/image-repo/icons/Bash-Dark.svg" />
 <img align="left" height="30" alt="python" src="https://ronthetech.github.io/image-repo/icons/Python-Dark.svg" />
