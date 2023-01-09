@@ -43,10 +43,11 @@ Im a Tech and Code Enthusiast, Basketball Fanatic⛹🏾, and when I'm not at my
 [![Ron's GitHub stats](https://ronjtech-github-readme-stats.vercel.app/api?username=ronthetech&hide=stars&count_private=true&show_icons=true&theme=github_dark)](https://github.com/ronthetech/github-readme-stats)
 
 <hr />
-
+ 
+<!---
 [![Top Langs](https://ronjtech-github-readme-stats.vercel.app/api/top-langs/?username=ronthetech&layout=compact)](https://github.com/ronthetech/github-readme-stats)
 
-<!---
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronthetech)](https://github.com/anuraghazra/github-readme-stats)
 
 |![Ron's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronthetech&hide=stars&count_private=true)|
@@ -65,7 +66,6 @@ Im a Tech and Code Enthusiast, Basketball Fanatic⛹🏾, and when I'm not at my
 <a href="https://www.linkedin.com/in/ronjf/">
  <img align="right" alt="Ron Jean-Francois | LinkedIn" width="21px" src="https://raw.githubusercontent.com/ronthetech/ronthetech/852679b722f8f4470980c6f25dd5851e2e5fb702/icons/LinkedIn.svg"/>
 </a>
-
 --->
 
 ## Thanks for checking out my projects!
