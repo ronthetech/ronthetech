@@ -40,11 +40,11 @@ Im a Tech and Code Enthusiast, Basketball Fanatic⛹🏾, and when I'm not at my
 
 <hr />
 
-[![Ron's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronthetech&hide=stars&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Ron's GitHub stats](https://ronjtech-github-readme-stats.vercel.app/api?username=ronthetech&hide=stars&count_private=true&show_icons=true&theme=github_dark)](https://github.com/ronthetech/github-readme-stats)
 
 <hr />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronthetech&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://ronjtech-github-readme-stats.vercel.app/api/top-langs/?username=ronthetech&layout=compact)](https://github.com/ronthetech/github-readme-stats)
 
 <!---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronthetech)](https://github.com/anuraghazra/github-readme-stats)
