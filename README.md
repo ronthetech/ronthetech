@@ -33,11 +33,11 @@ Im a Tech and Code Enthusiast, Basketball Fanatic⛹🏾, and when I'm not at my
 
 ### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 🦆 [How to Conditionally Apply CSS Classes to a React Component](https://www.ronjeanfrancois.com/blog/how-to-conditionally-apply-css-classes-to-a-react-component/)
- - 🐤 [How to Add TailwindCSS to Your Angular App](https://www.ronjeanfrancois.com/blog/how-to-add-tailwindcss-to-your-angular-app/)
- - 🦚 [How to Add TypeScript ESLint to Next.js](https://www.ronjeanfrancois.com/blog/how-to-add-typescript-eslint-to-nextjs/)
- - 🦅 [Intro to Next.js](https://www.ronjeanfrancois.com/blog/intro-to-nextjs/)
- - 🦅 [How to Install pnpm](https://www.ronjeanfrancois.com/blog/how-to-install-pnpm-using-npm/)<!-- BLOGPOSTS:END -->
+ - 🦆 [Why You Should Avoid Always Using Arrow Functions](https://www.ronjeanfrancois.com/blog/why-you-should-avoid-always-using-arrow-functions/)
+ - 🐤 [How to Change a Switch Statement to an Object in JavaScript](https://www.ronjeanfrancois.com/blog/how-to-change-a-switch-to-an-object/)
+ - 🦚 [How to Conditionally Apply CSS Classes to a React Component](https://www.ronjeanfrancois.com/blog/how-to-conditionally-apply-css-classes-to-a-react-component/)
+ - 🦅 [How to Change an If-Else Statement to a Switch Statement in JavaScript](https://www.ronjeanfrancois.com/blog/how-to-change-an-if-else-to-a-switch/)
+ - 🦅 [How to use the Reduce Method in JavaScript](https://www.ronjeanfrancois.com/blog/how-to-use-the-reduce-method/)<!-- BLOGPOSTS:END -->
 
 <hr />
 
