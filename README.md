@@ -42,7 +42,7 @@ Im a Tech and Code Enthusiast, Basketball Fanatic⛹🏾, and when I'm not at my
 
 <hr />
 
-[![Ron's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronthetech&hide=stars&count_private=true&show_icons=true&theme=github_dark)](https://github.com/ronthetech/github-readme-stats)
+[![Ron's GitHub stats](https://ronjtech-github-readme-stats.vercel.app/api?username=ronthetech&hide=stars&count_private=true&show_icons=true&theme=github_dark)](https://github.com/ronthetech/github-readme-stats)
 
 <hr />
 
