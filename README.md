@@ -16,6 +16,7 @@ Im a Tech and Code Enthusiast, Basketball Fanatic⛹🏾, and when I'm not at my
 <img align="left" height="30" alt="postgresql" src="https://ronthetech.github.io/image-repo/icons/PostgreSQL-Dark.svg" />
 <img align="left" height="30" alt="mongodb" src="https://ronthetech.github.io/image-repo/icons/MongoDB.svg" />
 <img align="left" height="30" alt="tailwindcss" src="https://ronthetech.github.io/image-repo/icons/TailwindCSS-Dark.svg" />
+<img align="left" height="30" alt="bootstrap" src="https://ronthetech.github.io/image-repo/icons/Bootstrap.svg" />
 <img align="left" height="30" alt="sass" src="https://ronthetech.github.io/image-repo/icons/Sass.svg" />
 <br />
 <br />
