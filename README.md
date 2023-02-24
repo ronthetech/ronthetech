@@ -1,6 +1,4 @@
-
-
-I am a software engineer based in New York. I am passionate about solving problems and building innovative, user-friendly solutions. I have a thorough understanding of software development principles, experience in automation and testing, and proficiency in JavaScript, TypeScript, and Python. In my time as an engineer, I have gained experience in multiple technologies including Node.js, Cypress, React, Next.js, Selenium, and Django. I am knowledgeable in a few different areas of development, such as managing relational and document databases, and building reliable backend services and APIs with GraphQL, Node.js, and Express. As a software engineer, I apply my ambitious mindset, and strength in collaborative development to building scalable projects from planning to production.
+<h3 align="center">I am a software engineer based in New York. I am passionate about solving problems and building innovative, user-friendly solutions. I have a thorough understanding of software development principles, experience in automation and testing, and proficiency in JavaScript, TypeScript, and Python. In my time as an engineer, I have gained experience in multiple technologies including Node.js, Cypress, React, Next.js, Selenium, and Django. I am knowledgeable in a few different areas of development, such as managing relational and document databases, and building reliable backend services and APIs with GraphQL, Node.js, and Express. As a software engineer, I apply my ambitious mindset, and strength in collaborative development to building scalable projects from planning to production.</h3>
 
 You can find examples of my work here: https://ronjeanfrancois.com
 
@@ -20,7 +18,6 @@ You can find examples of my work here: https://ronjeanfrancois.com
 <img align="left" height="30" alt="tailwindcss" src="https://ronthetech.github.io/image-repo/icons/TailwindCSS-Dark.svg" />
 <img align="left" height="30" alt="bootstrap" src="https://ronthetech.github.io/image-repo/icons/Bootstrap.svg" />
 <img align="left" height="30" alt="sass" src="https://ronthetech.github.io/image-repo/icons/Sass.svg" />
-<br />
 <br />
 
 <hr />
