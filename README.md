@@ -1,6 +1,8 @@
 
 
-Im a Tech and Code Enthusiast, Basketball Fanatic⛹🏾, and when I'm not at my computer desk, I'm usually working on old cars like my '04 E46 BMW🏎️.
+I am a software engineer based in New York. I am passionate about solving problems and building innovative, user-friendly solutions. I have a thorough understanding of software development principles, experience in automation and testing, and proficiency in JavaScript, TypeScript, and Python. In my time as an engineer, I have gained experience in multiple technologies including Node.js, Cypress, React, Next.js, Selenium, and Django. I am knowledgeable in a few different areas of development, such as managing relational and document databases, and building reliable backend services and APIs with GraphQL, Node.js, and Express. As a software engineer, I apply my ambitious mindset, and strength in collaborative development to building scalable projects from planning to production.
+
+You can find examples of my work here: https://ronjeanfrancois.com
 
 ## Languages + Tools
 
