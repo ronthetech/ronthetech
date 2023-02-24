@@ -34,11 +34,11 @@ Im a Tech and Code Enthusiast, Basketball Fanatic⛹🏾, and when I'm not at my
 
 ### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 🦆 [Why You Should Avoid Always Using Arrow Functions](https://www.ronjeanfrancois.com/blog/why-you-should-avoid-always-using-arrow-functions/)
- - 🐤 [How to Change a Switch Statement to an Object in JavaScript](https://www.ronjeanfrancois.com/blog/how-to-change-a-switch-to-an-object/)
- - 🦚 [How to Conditionally Apply CSS Classes to a React Component](https://www.ronjeanfrancois.com/blog/how-to-conditionally-apply-css-classes-to-a-react-component/)
- - 🦆 [How to Change an If-Else Statement to a Switch Statement in JavaScript](https://www.ronjeanfrancois.com/blog/how-to-change-an-if-else-to-a-switch/)
- - 🦉 [How to use the Reduce Method in JavaScript](https://www.ronjeanfrancois.com/blog/how-to-use-the-reduce-method/)<!-- BLOGPOSTS:END -->
+ - 🦆 [How to Conditionally Apply CSS Classes to a React Component](https://ronjf.hashnode.dev/how-to-conditionally-apply-css-classes-to-a-react-component)
+ - 🐤 [Why You Should Avoid Always Using Arrow Functions](https://www.ronjeanfrancois.com/blog/why-you-should-avoid-always-using-arrow-functions/)
+ - 🦚 [How to Change a Switch Statement to an Object in JavaScript](https://www.ronjeanfrancois.com/blog/how-to-change-a-switch-to-an-object/)
+ - 🦆 [How to Conditionally Apply CSS Classes to a React Component](https://www.ronjeanfrancois.com/blog/how-to-conditionally-apply-css-classes-to-a-react-component/)
+ - 🦉 [How to Change an If-Else Statement to a Switch Statement in JavaScript](https://www.ronjeanfrancois.com/blog/how-to-change-an-if-else-to-a-switch/)<!-- BLOGPOSTS:END -->
 
 <hr />
 
