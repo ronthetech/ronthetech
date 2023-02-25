@@ -33,7 +33,7 @@
 
 <hr />
 
-### :books: Recent Blog Posts
+## :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
  - 🦆 [How to Conditionally Apply CSS Classes to a React Component](https://ronjf.hashnode.dev/how-to-conditionally-apply-css-classes-to-a-react-component)
  - 🐤 [Why You Should Avoid Always Using Arrow Functions](https://www.ronjeanfrancois.com/blog/why-you-should-avoid-always-using-arrow-functions/)
@@ -42,8 +42,9 @@
  - 🦉 [How to Change an If-Else Statement to a Switch Statement in JavaScript](https://www.ronjeanfrancois.com/blog/how-to-change-an-if-else-to-a-switch/)<!-- BLOGPOSTS:END -->
 
 <hr />
-
-[![Ron's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronthetech&hide=stars&count_private=true&show_icons=true&theme=github_dark)](https://github.com/ronthetech/github-readme-stats)
+ 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ronthetech&hide=stars&count_private=true&show_icons=true&theme=github_dark" alt="ronthetech" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ronthetech&" alt="ronthetech" /></p>
 
 <hr />
 
@@ -51,26 +52,11 @@
 
  
 <!---
-[![Ron's GitHub stats](https://ronjtech-github-readme-stats.vercel.app/api?username=ronthetech&hide=stars&count_private=true&show_icons=true&theme=github_dark)](https://github.com/ronthetech/github-readme-stats)
-[![Top Langs](https://ronjtech-github-readme-stats.vercel.app/api/top-langs/?username=ronthetech&layout=compact)](https://github.com/ronthetech/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronthetech)](https://github.com/anuraghazra/github-readme-stats)
-
-|![Ron's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronthetech&hide=stars&count_private=true)|
 | ------------- | ------------- |
 ### Top Repositories
 
 <a href=""><img align="center" src="" /></a>
 <a href=""><img align="center" src="" /></a>
-
-<br />
-<br />
-
-<a href="https://twitter.com/ronjtech">
- <img align="right" alt="Ron Jean-Francois | Twitter" width="21px" src="https://raw.githubusercontent.com/ronthetech/ronthetech/011eb1da5a80016595dda2f204493cc203677d99/icons/Twitter%20(1).svg"/>
-</a>
-<a href="https://www.linkedin.com/in/ronjf/">
- <img align="right" alt="Ron Jean-Francois | LinkedIn" width="21px" src="https://raw.githubusercontent.com/ronthetech/ronthetech/852679b722f8f4470980c6f25dd5851e2e5fb702/icons/LinkedIn.svg"/>
-</a>
 --->
 
 ## Thanks for checking out my projects!
