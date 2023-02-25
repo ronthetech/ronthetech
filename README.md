@@ -25,16 +25,12 @@
 <img align="left" height="30" alt="sass" src="https://ronthetech.github.io/image-repo/icons/Sass.svg" />
 <br />
 
-<hr />
-
 ## You can connect with me on:
 
 <a href="https://ronjeanfrancois.com"><img align="left" alt="ronjeanfrancois.com" width="22px" src="https://ronthetech.github.io/image-repo/icons/language_white_24dp.svg" />
 <a href="https://twitter.com/ronjtech"><img align="left" alt="Ron Jean-Francois | Twitter" width="22px" src="https://ronthetech.github.io/image-repo/Twitter.svg" /></a>
 <a href="https://www.linkedin.com/in/ronjf/"><img align="left" alt="Ron Jean-Francois | LinkedIn" width="22px" src="https://ronthetech.github.io/image-repo/LinkedIn.svg" /></a>
 <br />
-
-<hr />
 
 ## :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
@@ -43,17 +39,14 @@
  - 🦚 [How to Change a Switch Statement to an Object in JavaScript](https://www.ronjeanfrancois.com/blog/how-to-change-a-switch-to-an-object/)
  - 🦆 [How to Conditionally Apply CSS Classes to a React Component](https://www.ronjeanfrancois.com/blog/how-to-conditionally-apply-css-classes-to-a-react-component/)
  - 🦉 [How to Change an If-Else Statement to a Switch Statement in JavaScript](https://www.ronjeanfrancois.com/blog/how-to-change-an-if-else-to-a-switch/)<!-- BLOGPOSTS:END -->
-
-<hr />
  
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ronthetech&hide=stars&count_private=true&show_icons=true&theme=github_dark" alt="ronthetech" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ronthetech&" alt="ronthetech" /></p>
-
-<hr />
-
+<br />
+<div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ronthetech&hide=stars&count_private=true&show_icons=true&theme=github_dark" alt="ronthetech" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ronthetech&" alt="ronthetech" /></p>
+</div>
 <!-- [![Top Langs](https://ronjtech-github-readme-stats.vercel.app/api/top-langs/?username=ronthetech&layout=compact)](https://github.com/ronthetech/github-readme-stats) -->
 
- 
 <!---
 | ------------- | ------------- |
 ### Top Repositories
@@ -61,8 +54,6 @@
 <a href=""><img align="center" src="" /></a>
 <a href=""><img align="center" src="" /></a>
 --->
-
-## Thanks for checking out my projects!
 
 <!---
 ronthetech/ronthetech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
