@@ -29,10 +29,10 @@
 
 ## You can connect with me on:
 
-<a href="https://ronjeanfrancois.com"><img align="left" alt="ronjeanfrancois.com" width="22px" src="https://ronthetech.github.io/image-repo/icons/language_white_24dp.svg" />
-<a href="https://twitter.com/ronjtech"><img align="left" alt="Ron Jean-Francois | Twitter" width="22px" src="https://ronthetech.github.io/image-repo/Twitter.svg" /></a>
+<a href="https://ronjeanfrancois.com"><img align="left" alt="ronjeanfrancois.com" width="40px" src="https://ronthetech.github.io/image-repo/icons/language_white_24dp.svg" />
+<a href="https://twitter.com/ronjtech"><img align="left" alt="Ron Jean-Francois | Twitter" width="40px" src="https://ronthetech.github.io/image-repo/Twitter.svg" /></a>
  
-<a href="https://www.linkedin.com/in/ronjf/"><img align="left" alt="Ron Jean-Francois | LinkedIn" width="22px" src="https://ronthetech.github.io/image-repo/LinkedIn.svg" /></a>
+<a href="https://www.linkedin.com/in/ronjf/"><img align="left" alt="Ron Jean-Francois | LinkedIn" width="40px" src="https://ronthetech.github.io/image-repo/LinkedIn.svg" /></a>
  
 <br />
 
