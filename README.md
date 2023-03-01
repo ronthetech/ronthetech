@@ -48,7 +48,7 @@
 <div>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=ronthetech&hide=stars&count_private=true&show_icons=true&theme=github_dark" alt="ronthetech" />
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ronthetech&" alt="ronthetech" />
->/div>
+</div>
 <!-- [![Top Langs](https://ronjtech-github-readme-stats.vercel.app/api/top-langs/?username=ronthetech&layout=compact)](https://github.com/ronthetech/github-readme-stats) -->
 
 <!---
