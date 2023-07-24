@@ -5,7 +5,6 @@
 
 - 👨🏾‍💻 You can find examples of my work here: https://ronjeanfrancois.com
 - 📫 Get in touch here: [jeanfrancoisron@gmail.com](mailto:jeanfrancoisron@gmail.com)
-- 📄 Check out my resume here: [Resume](https://docs.google.com/document/d/e/2PACX-1vRhLQzd5IflyTcCRFRq2XnyMqSavTfOx64NY6a_R7t16XIHoJGc_XcrxQ-PYpSyfUJr8PIK78_fmZ1A/pub)
 
 ## Languages + Tools
 
