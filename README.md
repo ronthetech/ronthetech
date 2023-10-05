@@ -9,16 +9,11 @@
 ## Languages + Tools
 
 <img align="left" height="40" alt="javascript" src="https://ronthetech.github.io/image-repo/icons/JavaScript.svg" />
-<img align="left" height="40" alt="typescript" src="https://ronthetech.github.io/image-repo/icons/TypeScript.svg" />
 <img align="left" height="40" alt="nodejs" src="https://ronthetech.github.io/image-repo/icons/NodeJS-Dark.svg" />
-<img align="left" height="40" alt="react" src="https://ronthetech.github.io/image-repo/icons/React-Dark.svg" />
-<img align="left" height="40" alt="nextjs" src="https://ronthetech.github.io/image-repo/icons/NextJS-Dark.svg" />
-<img align="left" height="40" alt="astro" src="https://ronthetech.github.io/image-repo/icons/Astro.svg" />
 <img align="left" height="40" alt="git" src="https://ronthetech.github.io/image-repo/icons/Git.svg" />
 <img align="left" height="40" alt="bash" src="https://ronthetech.github.io/image-repo/icons/Bash-Dark.svg" />
 <img align="left" height="40" alt="python" src="https://ronthetech.github.io/image-repo/icons/Python-Dark.svg" />
 <img align="left" height="40" alt="postgresql" src="https://ronthetech.github.io/image-repo/icons/PostgreSQL-Dark.svg" />
-<img align="left" height="40" alt="mongodb" src="https://ronthetech.github.io/image-repo/icons/MongoDB.svg" />
 <img align="left" height="40" alt="tailwindcss" src="https://ronthetech.github.io/image-repo/icons/TailwindCSS-Dark.svg" />
 <img align="left" height="40" alt="bootstrap" src="https://ronthetech.github.io/image-repo/icons/Bootstrap.svg" />
 <img align="left" height="40" alt="sass" src="https://ronthetech.github.io/image-repo/icons/Sass.svg" />
