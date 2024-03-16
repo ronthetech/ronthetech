@@ -16,7 +16,6 @@
 <img align="left" height="40" alt="postgresql" src="https://ronthetech.github.io/image-repo/icons/PostgreSQL-Dark.svg" />
 <img align="left" height="40" alt="tailwindcss" src="https://ronthetech.github.io/image-repo/icons/TailwindCSS-Dark.svg" />
 <img align="left" height="40" alt="bootstrap" src="https://ronthetech.github.io/image-repo/icons/Bootstrap.svg" />
-<img align="left" height="40" alt="sass" src="https://ronthetech.github.io/image-repo/icons/Sass.svg" />
 
 <br />
 <br />
