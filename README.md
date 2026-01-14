@@ -3,7 +3,7 @@
 
 <br />
 
-- 👨🏾‍💻 You can find examples of my work here: https://ronjeanfrancois.com
+- 👨🏾‍💻 You can find examples of my work here: https://ronaldjf.com/
 - 📫 Get in touch here: [jeanfrancoisron@gmail.com](mailto:jeanfrancoisron@gmail.com)
 
 <br />
@@ -11,8 +11,8 @@
 
 ## You can connect with me on:
 
-<a href="https://ronjeanfrancois.com"><img align="left" alt="ronjeanfrancois.com" width="40px" src="https://ronthetech.github.io/image-repo/icons/language_white_24dp.svg" />
-<a href="https://twitter.com/ronjtech"><img align="left" alt="Ron Jean-Francois | Twitter" width="40px" src="https://ronthetech.github.io/image-repo/Twitter.svg" /></a>
+<a href="https://ronaldjf.com/"><img align="left" alt="ronaldjf.com" width="40px" src="https://ronthetech.github.io/image-repo/icons/language_white_24dp.svg" />
+<!-- <a href="https://twitter.com/ronjtech"><img align="left" alt="Ron Jean-Francois | Twitter" width="40px" src="https://ronthetech.github.io/image-repo/Twitter.svg" /></a> -->
  
 <a href="https://www.linkedin.com/in/ronjf/"><img align="left" alt="Ron Jean-Francois | LinkedIn" width="40px" src="https://ronthetech.github.io/image-repo/LinkedIn.svg" /></a>
  
